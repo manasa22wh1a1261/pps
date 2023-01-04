@@ -1,0 +1,13 @@
+#include<stdio.h>
+void main()
+{
+float simpleinterest,principle,rate,timeperiod,100;
+printf("enter value of principle:");
+scanf("%f",&principle);
+printf(enter value of timeperiod:")
+scanf("%f",&timeperiod);
+printf("enter value of rate:");
+scanf("%f,&rate");
+simpleinterest=(p*t*r)/100
+print("%f,simpleinterest")
+}`
